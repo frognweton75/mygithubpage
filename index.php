@@ -1,1 +1,1 @@
-header("Location:http://tekumbert.com/subjects.php?url=projects.json");
+<?php header("Location:http://tekumbert.com/subjects.php?url=projects.json");?>
